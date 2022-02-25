@@ -1,0 +1,5 @@
+package-lock.json
+# ignore everything in the logs directory
+logs/**
+**/node_modules/
+.DS_Store
